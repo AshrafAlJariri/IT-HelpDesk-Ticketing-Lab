@@ -106,9 +106,9 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
   <img src="https://i.imgur.com/0dMbP4V.png" width="1000">
 </p>
 
+## End Of Printer Troubleshooting Walk-Through
 <p align="center"><strong>Resolution Confirmed</strong></p>
 
-## End Of Printer Troubleshooting Walk-Through
 <h4>Ticket Closure</h4>
 
 <p align="center">
