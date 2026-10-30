@@ -78,8 +78,8 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Troubleshooting and Resolution</h4>
 
 <p align="center">
-  <img src="images/003-spooler-configuration.png" width="48%">
-  <img src="images/003-spooler-running.png" width="48%">
+  <img src="https://i.imgur.com/uridRTv.png" width="48%">
+  <img src="https://i.imgur.com/dIaOOkM.png" width="48%">
 </p>
 <p align="center">
   <strong>Service Restoration:</strong> I changed the Print Spooler startup type to Automatic and started the service to restore printing functionality.
