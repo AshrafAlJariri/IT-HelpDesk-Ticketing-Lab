@@ -116,7 +116,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Ticket Closure</h4>
 
 <p align="center">
-  <img src="blob:https://imgur.com/46acc04d-8c02-420a-9591-d3a72fade295" width="800">
+  <img src="https://i.imgur.com/imWOkS2.png" width="800">
 </p>
 
 <p align="center">
