@@ -65,8 +65,8 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Problem Identification</h4>
 
 <p align="center">
-  <img src="images/003-printer-error.png" width="48%">
-  <img src="images/003-spooler-stopped.png" width="48%">
+  <img src="https://i.imgur.com/AK9ALHU.png" width="48%">
+  <img src="https://i.imgur.com/2cCIaDp.png" width="48%">
 </p>
 
 <p align="center"><strong>Printer Error | Print Spooler Stopped</strong></p>
