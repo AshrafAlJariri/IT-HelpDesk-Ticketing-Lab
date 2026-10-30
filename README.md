@@ -33,9 +33,71 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 ## Lab Walk-Through
 
-### Low Priority Tickets
 
-#### Ticket HD-003: Printer Not Working
+<h2>Low Priority Tickets</h2>
+
+<h3>HD-003: Printer Not Working</h3>
+
+<p align="center">
+  <strong>Ticket Creation:</strong> John Smith submitted a support request after experiencing printing issues on his Windows 11 workstation. The ticket was assigned Low priority.
+</p>
+
+<p align="center">
+  <img src="images/003-ticket-creation.png" width="800">
+</p>
+
+<p align="center"><strong>Initial Support Request</strong></p>
+
+<h4>IT Support Response</h4>
+
+<p align="center">
+  <img src="images/003-support-response.png" width="800">
+</p>
+
+<p align="center"><strong>Initial Troubleshooting</strong></p>
+
+<h4>Problem Identification</h4>
+
+<p align="center">
+  <img src="images/003-printer-error.png" width="48%">
+  <img src="images/003-spooler-stopped.png" width="48%">
+</p>
+
+<p align="center"><strong>Printer Error | Print Spooler Stopped</strong></p>
+
+<h4>Troubleshooting and Resolution</h4>
+
+<p align="center">
+  <img src="images/003-spooler-configuration.png" width="48%">
+  <img src="images/003-spooler-running.png" width="48%">
+</p>
+
+<p align="center"><strong>Service Configuration | Service Restored</strong></p>
+
+<h4>Resolution Verification</h4>
+
+<p align="center">
+  <img src="images/003-test-page.png" width="650">
+</p>
+
+<p align="center"><strong>Print Test Successful</strong></p>
+
+<h4>Employee Confirmation</h4>
+
+<p align="center">
+  <img src="images/003-resolution-conversation.png" width="800">
+</p>
+
+<p align="center"><strong>Resolution Confirmed</strong></p>
+
+<h4>Ticket Closure</h4>
+
+<p align="center">
+  <img src="images/003-ticket-closed.png" width="800">
+</p>
+
+<p align="center"><strong>Ticket Closed</strong></p>
+
 
 
 
