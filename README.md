@@ -31,11 +31,11 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 ## Lab Walk-Through
 
 
-<h2>Low Priority Tickets</h2>
+<h3 align="center">Low Priority Tickets</h3> 
 
 
 
-<h3 align="center">HD-001: Printer Not Working</h3>
+<h3>HD-003: Printer Not Working</h3>
 
 
 <p align="center">
