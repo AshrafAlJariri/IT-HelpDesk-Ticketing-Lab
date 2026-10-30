@@ -92,8 +92,13 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Resolution Verification</h4>
 
 <p align="center">
-  <img src="https://i.imgur.com/0dMbP4V.png" width="100">
+  <img src="https://i.imgur.com/0dMbP4V.png" width="1000">
+  </p>
+<p align="center">
+  <strong>Resolution Verification:</strong> After restoring the Print Spooler service, I successfully generated and saved a Windows Printer Test Page using Microsoft Print to PDF. I then opened the PDF to verify that it was created correctly, confirming that PDF printing functionality had been restored.
 </p>
+
+
 
 <p align="center"><strong>Print Test Successful</strong></p>
 
