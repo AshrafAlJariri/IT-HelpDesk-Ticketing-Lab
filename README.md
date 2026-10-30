@@ -93,8 +93,10 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
    <img src="https://i.imgur.com/QeLayha.png" width="70%">
   </p>
 <p align="center">
-  <strong>Resolution Verification:</strong> After restoring the Print Spooler service, I successfully generated and saved a Windows Printer Test Page using Microsoft Print to PDF. I then opened the PDF to verify that it was created correctly, confirming that PDF printing functionality had been restored.
+  <strong>Resolution Verification:</strong> After changing the Print Spooler startup type to Automatic and starting the service, I returned to the Windows Services application and verified that the Print Spooler status displayed "Running," confirming that the service had been successfully restored.
 </p>
+
+ 
 
 <p align="center"><strong>Print Test Successful</strong></p>
 
