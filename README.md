@@ -78,8 +78,8 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Troubleshooting and Resolution</h4>
 
 <p align="center">
-  <img src="https://i.imgur.com/TivuJon.jpeg" width="150%">
-  <img src="https://i.imgur.com/0dMbP4V.png" width="100%">
+  <img src="https://i.imgur.com/TivuJon.jpeg" width="100%">
+  <img src="https://i.imgur.com/QeLayha.png" width="100%">
    
 </p>
 <p align="center">
@@ -92,7 +92,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Resolution Verification</h4>
 
 <p align="center">
-  <img src="images/003-test-page.png" width="650">
+  <img src="https://i.imgur.com/0dMbP4V.png" width="650">
 </p>
 
 <p align="center"><strong>Print Test Successful</strong></p>
