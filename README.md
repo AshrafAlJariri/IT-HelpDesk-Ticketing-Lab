@@ -73,13 +73,17 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
   <strong>Problem Identification:</strong> I attempted to print a test page using Microsoft Print to PDF but received error 0x000006ba, indicating that the Print Spooler service was not running.
 </p>
 
-<p align="center"><strong>Printer Error | Print Spooler Stopped</strong></p>
+<p align="center"><strong>
+<h4>Print Spooler Service Restoration</h4></strong></p>
 
 <h4>Troubleshooting and Resolution</h4>
 
 <p align="center">
   <img src="images/003-spooler-configuration.png" width="48%">
   <img src="images/003-spooler-running.png" width="48%">
+</p>
+<p align="center">
+  <strong>Service Restoration:</strong> I changed the Print Spooler startup type to Automatic and started the service to restore printing functionality.
 </p>
 
 <p align="center"><strong>Service Configuration | Service Restored</strong></p>
