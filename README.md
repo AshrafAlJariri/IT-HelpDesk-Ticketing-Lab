@@ -33,14 +33,28 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 ## Lab Walk-Through
 
-### Ticket 1: Password Reset
+### Low Priority Tickets
 
-### Ticket 2: Account Locked Out
+#### Ticket HD-003: Printer Not Working
 
-### Ticket 3: Printer Not Working
 
-### Ticket 4: Shared Folder Access Issue
 
-### Ticket 5: Domain Connectivity / DNS Failure
+### Medium Priority Tickets
 
-### Ticket 6: Tier 2 Escalation
+#### Ticket HD-001: Password Reset
+
+#### Ticket HD-002: Account Locked Out
+
+#### Ticket HD-004: Cannot Access Shared Folder
+
+
+
+### High Priority Tickets
+
+#### Ticket HD-005: Domain Connectivity / DNS Failure
+
+#### Ticket HD-006: Tier 2 Escalation
+
+## What I Learned
+
+This section will summarize the ticket management, troubleshooting, communication, documentation, and escalation skills gained after completing all six scenarios.
