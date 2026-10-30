@@ -59,6 +59,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <p align="center">
   <img src="https://i.imgur.com/vXSDo2o.png" width="800">
 </p>
+
 ## Troubleshooting Walk-Through
 <p align="center"><strong>Initial Troubleshooting</strong></p>
 
