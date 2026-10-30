@@ -96,8 +96,6 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
   <strong>Resolution Verification:</strong> After restoring the Print Spooler service, I successfully generated and saved a Windows Printer Test Page using Microsoft Print to PDF. I then opened the PDF to verify that it was created correctly, confirming that PDF printing functionality had been restored.
 </p>
 
-## End Of Troubleshooting Walk-Through
-
 <p align="center"><strong>Print Test Successful</strong></p>
 
 <h4>Employee Confirmation</h4>
@@ -108,6 +106,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 <p align="center"><strong>Resolution Confirmed</strong></p>
 
+## End Of Troubleshooting Walk-Through
 <h4>Ticket Closure</h4>
 
 <p align="center">
