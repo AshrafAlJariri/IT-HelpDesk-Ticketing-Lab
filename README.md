@@ -24,11 +24,11 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 | Ticket | Issue | Difficulty | Priority |
 |--------|-------|------------|----------|
 | HD-003 | Printer Not Working | Low |
-| HD-001 | Password Reset | Easy | Medium |
-| HD-002 | Account Locked Out | Easy | Medium |
+| HD-001 | Password Reset  Medium |
+| HD-002 | Account Locked Out Medium |
 | HD-004 | Cannot Access Shared Folder | Medium 
-| HD-005 | Domain Connectivity / DNS Failure | Hard| High |
-| HD-006 | Tier 2 Escalation | Hard | High |
+| HD-005 | Domain Connectivity / DNS Failure High |
+| HD-006 | Tier 2 Escalation  High |
 
 ## Lab Walk-Through
 
