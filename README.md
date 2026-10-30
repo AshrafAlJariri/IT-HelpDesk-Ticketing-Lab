@@ -100,11 +100,15 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 <p align="center"><strong>Print Test Successful</strong></p>
 
-<h4>Employee Confirmation</h4>
+<h4>Print Test Verification</h4>
 
 <p align="center">
   <img src="https://i.imgur.com/0dMbP4V.png" width="1000">
 </p>
+<p align="center">
+  <strong>Print Test Verification:</strong> After confirming the Print Spooler service was running, I successfully generated and saved a Windows Printer Test Page using Microsoft Print to PDF. I opened the saved PDF to verify that the test page was created correctly, confirming that PDF printing functionality was restored.
+</p>
+
 
 ## End Of Printer Troubleshooting Walk-Through
 <p align="center"><strong>Resolution Confirmed</strong></p>
