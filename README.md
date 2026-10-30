@@ -80,6 +80,8 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <p align="center">
   <img src="https://i.imgur.com/uridRTv.png" width="48%">
   <img src="https://i.imgur.com/dIaOOkM.png" width="48%">
+  <img src="https://i.imgur.com/0dMbP4V.png" width="100%">
+   
 </p>
 <p align="center">
   <strong>Print Spooler Service Restoration:</strong> I opened the Windows Services application and located the Print Spooler service. After discovering that the service was not running, I changed its startup type to Automatic and started the service to restore printing functionality.
