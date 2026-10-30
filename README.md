@@ -24,9 +24,9 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 | Ticket | Issue | Priority |
 |--------|-------|----------|
-| HD-003 | Printer Not Working | Low |
-| HD-001 | Password Reset | Medium |
-| HD-002 | Account Locked Out | Medium |
+| HD-001 | Printer Not Working | Low |
+| HD-002 | Password Reset | Medium |
+| HD-003 | Account Locked Out | Medium |
 | HD-004 | Cannot Access Shared Folder | Medium |
 | HD-005 | Domain Connectivity / DNS Failure | High |
 | HD-006 | Tier 2 Escalation | High |
@@ -36,7 +36,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 <h2>Low Priority Tickets</h2>
 
-<h3>HD-003: Printer Not Working</h3>
+<h3>HD-001: Printer Not Working</h3>
 
 <p align="center">
   <strong>Ticket Creation:</strong> John Smith submitted a support request after experiencing printing issues on his Windows 11 workstation. The ticket was assigned Low priority.
