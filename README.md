@@ -43,7 +43,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 </p>
 
 <p align="center">
-  <img src="images/003-ticket-creation.png" width="800">
+  <img src="https://i.imgur.com/AfT9CWM.png" width="800">
 </p>
 
 <p align="center"><strong>Initial Support Request</strong></p>
