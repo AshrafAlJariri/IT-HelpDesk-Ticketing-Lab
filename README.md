@@ -82,8 +82,9 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
   <img src="https://i.imgur.com/dIaOOkM.png" width="48%">
 </p>
 <p align="center">
-  <strong>Service Restoration:</strong> I changed the Print Spooler startup type to Automatic and started the service to restore printing functionality.
+  <strong>Print Spooler Service Restoration:</strong> I opened the Windows Services application and located the Print Spooler service. After discovering that the service was not running, I changed its startup type to Automatic and started the service to restore printing functionality.
 </p>
+
 
 <p align="center"><strong>Service Configuration | Service Restored</strong></p>
 
