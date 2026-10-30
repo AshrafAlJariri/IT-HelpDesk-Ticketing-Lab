@@ -19,9 +19,6 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 ## Help Desk Ticket Scenarios
 
-
-## Help Desk Ticket Scenarios
-
 | Ticket | Issue | Priority |
 |--------|-------|----------|
 | HD-001 | Printer Not Working | Low |
@@ -36,7 +33,8 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 <h2>Low Priority Tickets</h2>
 
-<h3>HD-001: Printer Not Working</h3>
+
+<h4 align="center">HD-001: Printer Not Working</h4>
 
 <p align="center">
   <strong>Ticket Creation:</strong> John Smith submitted a support request after experiencing printing issues on his Windows 11 workstation. The ticket was assigned Low priority.
