@@ -79,7 +79,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 <p align="center">
   <img src="https://i.imgur.com/TivuJon.jpeg" width="100%">
-  <img src="https://i.imgur.com/QeLayha.png" width="100%">
+  <img src="https://i.imgur.com/QeLayha.png" width="70%">
    
 </p>
 <p align="center">
