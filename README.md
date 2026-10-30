@@ -60,7 +60,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
   <img src="https://i.imgur.com/vXSDo2o.png" width="800">
 </p>
 
-## Troubleshooting Walk-Through
+## Printer Troubleshooting Walk-Through
 <p align="center"><strong>Initial Troubleshooting</strong></p>
 
 <h4>Problem Identification</h4>
@@ -106,7 +106,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 <p align="center"><strong>Resolution Confirmed</strong></p>
 
-## End Of Troubleshooting Walk-Through
+## End Of Printer Troubleshooting Walk-Through
 <h4>Ticket Closure</h4>
 
 <p align="center">
