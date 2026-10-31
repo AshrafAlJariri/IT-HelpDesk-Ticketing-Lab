@@ -275,6 +275,142 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 #### Ticket HD-002: Account Locked Out
 
+<h3>HD-002: Account Locked Out</h3>
+
+<p align="center">
+  <strong>Ticket Creation:</strong> John Smith submitted a support request after his Windows domain account became locked, preventing him from accessing his Windows 11 workstation. The ticket was assigned Medium priority.
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/0JA2Uoo.png" width="800">
+</p>
+
+<p align="center"><strong>Initial Support Request</strong></p>
+
+<h4>IT Support Response</h4>
+
+<p align="center">
+  <img src="YOUR-IT-SUPPORT-RESPONSE-IMAGE-URL" width="800">
+</p>
+
+<h4>John Response</h4>
+
+<p align="center">
+  <img src="YOUR-JOHN-RESPONSE-IMAGE-URL" width="800">
+</p>
+
+## Account Lockout Troubleshooting Walk-Through
+<p align="center"><strong>Initial Troubleshooting</strong></p>
+
+<h4>Problem Identification</h4>
+
+<p align="center">
+  <img src="YOUR-IMAGE-URL-1" width="800">
+</p>
+
+<p align="center">
+  <strong>Problem Identification:</strong> I attempted to sign in to John Smith's Windows 11 workstation and received the message "The referenced account is currently locked out and may not be logged on to." This confirmed that his domain account was locked and preventing access to the workstation.
+</p>
+
+<p align="center"><strong>Windows Account Lockout Error</strong></p>
+
+<h4>Active Directory Account Identification</h4>
+
+<p align="center">
+  <img src="YOUR-IMAGE-URL-2" width="48%">
+  <img src="YOUR-IMAGE-URL-3" width="48%">
+</p>
+
+<p align="center">
+  <strong>Account Identification:</strong> I opened Active Directory Users and Computers on the domain controller, located John Smith's account in the IT organizational unit, and examined the Account tab to identify the account lockout status.
+</p>
+
+<p align="center"><strong>Account Properties | Account Lockout Status</strong></p>
+
+<h4>Troubleshooting and Resolution</h4>
+
+<p align="center">
+  <img src="YOUR-IMAGE-URL-4" width="800">
+</p>
+
+<p align="center">
+  <strong>Account Unlock:</strong> After locating John Smith's account in Active Directory Users and Computers, I selected the "Unlock account" checkbox and applied the change to remove the account lockout restriction and restore access.
+</p>
+
+<p align="center"><strong>Active Directory Account Unlock</strong></p>
+
+<h4>Resolution Verification</h4>
+
+<p align="center">
+  <img src="YOUR-IMAGE-URL-5" width="800">
+</p>
+
+<p align="center">
+  <strong>Resolution Verification:</strong> After applying the account unlock, I reviewed John Smith's account properties and confirmed that the unlock checkbox was no longer selected, indicating that the account lockout restriction had been removed.
+</p>
+
+<p align="center"><strong>Account Unlock Verified</strong></p>
+
+<h4>Windows Login Attempt</h4>
+
+<p align="center">
+  <img src="YOUR-IMAGE-URL-6" width="800">
+</p>
+
+<p align="center">
+  <strong>Windows Login Attempt:</strong> After unlocking John Smith's account, I returned to his Windows 11 workstation and entered his domain credentials to test whether access had been restored.
+</p>
+
+<p align="center"><strong>Windows Domain Login Attempt</strong></p>
+
+<h4>Successful Login Verification</h4>
+
+<p align="center">
+  <img src="YOUR-IMAGE-URL-7" width="48%">
+  <img src="YOUR-IMAGE-URL-8" width="48%">
+</p>
+
+<p align="center">
+  <strong>Login Verification:</strong> Windows displayed the Welcome screen for John Smith's account, followed by successful access to the Windows 11 desktop. This confirmed that the domain account was unlocked and workstation access had been restored.
+</p>
+
+<p align="center"><strong>Windows Sign-In | Successful Login</strong></p>
+
+## End Of Account Lockout Troubleshooting Walk-Through
+
+<p align="center"><strong>Resolution Confirmed</strong></p>
+
+<p align="center">
+  <img src="YOUR-RESOLUTION-CONFIRMATION-IMAGE-URL" width="80%">
+</p>
+
+<p align="center">
+  <strong>Resolution Confirmation:</strong> I informed John Smith that his Active Directory account had been unlocked and that workstation access was restored. John confirmed that he could successfully sign in to his Windows 11 workstation without any further issues.
+</p>
+
+<h4>Ticket Documentation</h4>
+
+<p align="center">
+  <img src="YOUR-INTERNAL-NOTE-IMAGE-URL" width="800">
+</p>
+
+<p align="center">
+  <strong>Ticket Documentation:</strong> I documented the reported account lockout, troubleshooting steps, Active Directory account unlock, successful login verification, and employee confirmation in a private Spiceworks internal note before closing the ticket.
+</p>
+
+<h4>Ticket Closed</h4>
+
+<p align="center">
+  <img src="YOUR-TICKET-CLOSED-IMAGE-URL" width="800">
+</p>
+
+<p align="center">
+  <strong>Ticket Closed:</strong> After successfully unlocking John Smith's Active Directory account, verifying that he could access his Windows 11 workstation, and receiving employee confirmation, I documented the resolution in a private internal note and closed the ticket in Spiceworks.
+</p>
+
+
+
+
 #### Ticket HD-004: Cannot Access Shared Folder
 
 
