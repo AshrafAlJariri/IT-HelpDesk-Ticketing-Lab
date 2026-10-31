@@ -54,7 +54,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
   <img src="https://i.imgur.com/hOmWwK8.png" width="800">
 </p>
 
-<h4>2. IT Support Response</h4>
+<h4>John Response</h4>
 
 <p align="center">
   <img src="https://i.imgur.com/vXSDo2o.png" width="800">
@@ -112,8 +112,6 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 ## End Of Printer Troubleshooting Walk-Through
 <p align="center"><strong>Resolution Confirmed</strong></p>
-
-<h4>Ticket Closure</h4>
 
 <p align="center">
   <img src="https://i.imgur.com/imWOkS2.png" width="800">
