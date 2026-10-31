@@ -315,7 +315,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Active Directory Account Identification</h4>
 
 <p align="center">
-  <img src="https://i.imgur.com/CFZau41.png" width="48%">
+  <img src="https://i.imgur.com/8IIANbN.jpeg" width="48%">
 
 </p>
 
