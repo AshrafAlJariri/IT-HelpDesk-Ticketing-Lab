@@ -174,7 +174,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Problem Identification</h4>
 
 <p align="center">
-  <img src="YOUR-LOGIN-FAILURE-IMAGE-URL" width="700">
+  <img src="https://i.imgur.com/W5cxYFl.png" width="700">
 </p>
 
 <p align="center">
