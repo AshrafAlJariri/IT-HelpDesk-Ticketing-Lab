@@ -176,7 +176,6 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <p align="center">
   <img src="https://i.imgur.com/W5cxYFl.png" width="70%">
 </p>
-
 <p align="center">
   <strong>Problem Identification:</strong> I attempted to sign in to John Smith's Windows 11 workstation and received an incorrect password error, confirming that the existing credentials were not working.
 </p>
