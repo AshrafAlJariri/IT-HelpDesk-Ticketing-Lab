@@ -303,7 +303,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Problem Identification</h4>
 
 <p align="center">
-  <img src="YOUR-IMAGE-URL-1" width="800">
+  <img src="https://i.imgur.com/7hi59bE.jpeg" width="800">
 </p>
 
 <p align="center">
