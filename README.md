@@ -379,7 +379,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <p align="center"><strong>Resolution Confirmed</strong></p>
 
 <p align="center">
-  <img src="YOUR-RESOLUTION-CONFIRMATION-IMAGE-URL" width="80%">
+  <img src="blob:https://imgur.com/41ad19c5-a5d8-4beb-ab20-71d2f46bbdb8" width="80%">
 </p>
 
 <p align="center">
