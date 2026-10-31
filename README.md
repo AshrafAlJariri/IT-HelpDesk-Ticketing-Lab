@@ -217,6 +217,10 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
   <img src="https://i.imgur.com/OaUrsgN.png" width="700">
 </p>
 
+<h4>Login Verification</h4>
+  <p align="center">
+  <img src="https://i.imgur.com/FdAIutf.jpeg" width="700">
+</p>
 <p align="center">
   <strong>Login Verification:</strong> After the password change, I successfully signed in to the Windows 11 workstation using John Smith's domain account. I opened Command Prompt and executed the whoami command, which returned corp\john.smith, confirming that the correct domain account was authenticated.
 </p>
