@@ -271,11 +271,9 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 
 
-
+<h3 align="center">(Medium Priority Tickets)</h3> 
 
 #### Ticket HD-002: Account Locked Out
-
-<h3>HD-002: Account Locked Out</h3>
 
 <p align="center">
   <strong>Ticket Creation:</strong> John Smith submitted a support request after his Windows domain account became locked, preventing him from accessing his Windows 11 workstation. The ticket was assigned Medium priority.
