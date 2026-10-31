@@ -217,6 +217,9 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <p align="center">
   <strong>Password Change Successful:</strong> I entered the temporary password and configured a new password for John Smith's domain account. Windows displayed the message "Your password has been changed," confirming that the required password update was completed successfully.
 </p>
+<p align="center">
+  <strong>New Password Configuration | Password Change Confirmed</strong>
+</p>
 
 <h4>Domain Login Verification</h4>
   <p align="center">
