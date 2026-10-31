@@ -476,7 +476,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 <p align="center"><strong>DNS Resolution Failure</strong></p>
 
-<h4>Troubleshooting and Resolution</h4>
+<h4>DNS Resolution Verification</h4>
 
 <p align="center">
   <img src="https://i.imgur.com/SvoQtkE.png" width="800">
@@ -487,17 +487,18 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 <p align="center"><strong>Successful DNS Resolution</strong></p>
 
-<h4>DNS Resolution Verification</h4>
+<h4>Domain Controller Discovery</h4>
 
 <p align="center">
-  <img src="YOUR-NSLOOKUP-SUCCESS-IMAGE-URL" width="800">
+  <img src="YOUR-NLTEST-SCREENSHOT-URL" width="800">
 </p>
 
 <p align="center">
-  <strong>DNS Resolution Verification:</strong> After correcting the DNS settings, I repeated the nslookup test and confirmed that the workstation could successfully resolve corp.ashraflab.test using the internal DNS server.
+  <strong>Domain Controller Discovery:</strong> After verifying DNS resolution, I executed nltest /dsgetdc:corp.ashraflab.test /force to confirm that the workstation could locate the Active Directory domain controller. The command successfully identified Ashraf-DC-01 at 10.50.1.4.
 </p>
 
-<p align="center"><strong>Successful Domain DNS Resolution</strong></p>
+<p align="center"><strong>Active Directory Domain Controller Successfully Discovered</strong></p>
+
 
 <h4>Domain Connectivity Verification</h4>
 
