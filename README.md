@@ -386,25 +386,20 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
   <strong>Resolution Confirmation:</strong> I informed John Smith that his Active Directory account had been unlocked and that workstation access was restored. John confirmed that he could successfully sign in to his Windows 11 workstation without any further issues.
 </p>
 
-<h4>Ticket Documentation</h4>
+<h4>Ticket Documentation and Closure</h4>
 
 <p align="center">
-  <img src="YOUR-INTERNAL-NOTE-IMAGE-URL" width="800">
+  <img src="https://i.imgur.com/cgTnEKW.png" width="800">
 </p>
 
 <p align="center">
-  <strong>Ticket Documentation:</strong> I documented the reported account lockout, troubleshooting steps, Active Directory account unlock, successful login verification, and employee confirmation in a private Spiceworks internal note before closing the ticket.
-</p>
-
-<h4>Ticket Closed</h4>
-
-<p align="center">
-  <img src="YOUR-TICKET-CLOSED-IMAGE-URL" width="800">
+  <strong>Ticket Documentation and Closure:</strong> After successfully unlocking John Smith's Active Directory account and verifying that he could log in to his Windows 11 workstation, I documented the issue, troubleshooting steps, resolution, and employee confirmation in a private Spiceworks internal note. I then closed the ticket after confirming that workstation access had been restored.
 </p>
 
 <p align="center">
-  <strong>Ticket Closed:</strong> After successfully unlocking John Smith's Active Directory account, verifying that he could access his Windows 11 workstation, and receiving employee confirmation, I documented the resolution in a private internal note and closed the ticket in Spiceworks.
+  <strong>Internal Ticket Documentation | Ticket Closed</strong>
 </p>
+
 
 
 
