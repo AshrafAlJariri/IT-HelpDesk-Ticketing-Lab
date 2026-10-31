@@ -197,7 +197,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <p align="center"><strong>Password Reset Configuration | Password Reset Successful</strong></p>
 
 
-<h4>Password Change Required/h4>
+<h4>Password Change Required</h4>
 <p align="center">
   <img src="https://i.imgur.com/Ap40uSi.png" width="70%">
 </p>
@@ -209,21 +209,25 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <p align="center"><strong>Password Change Required | Password Changed Successfully</strong></p>
 
 
-<h4>Login Verification</h4>
+<h4>Entering New Password</h4>
 
 <p align="center">
   <img src="https://i.imgur.com/OaUrsgN.png" width="80%">
 </p>
+<p align="center">
+  <strong>Password Change Successful:</strong> I entered the temporary password and configured a new password for John Smith's domain account. Windows displayed the message "Your password has been changed," confirming that the required password update was completed successfully.
+</p>
 
-<h4>Login Verification</h4>
+<h4>Domain Login Verification</h4>
   <p align="center">
   <img src="https://i.imgur.com/FdAIutf.jpeg" width="800%">
 </p>
 <p align="center">
-  <strong>Login Verification:</strong> After the password change, I successfully signed in to the Windows 11 workstation using John Smith's domain account. I opened Command Prompt and executed the whoami command, which returned corp\john.smith, confirming that the correct domain account was authenticated.
+  <strong>Domain Login Verification:</strong> After changing the password, I successfully signed in to the Windows 11 workstation using John Smith's updated credentials. I then opened Command Prompt and executed the whoami command, which returned CORP\john.smith, verifying that the correct domain user account was signed in.
 </p>
-
-<p align="center"><strong>Successful Domain Login Verification</strong></p>
+<p align="center">
+  <strong>Successful Windows Login | Domain Account Verification</strong>
+</p>
 
 
 ## End Of Password Reset Troubleshooting Walk-Through
