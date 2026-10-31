@@ -24,9 +24,8 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 | HD-001 | Printer Not Working | Low |
 | HD-002 | Password Reset | Medium |
 | HD-003 | Account Locked Out | Medium |
-| HD-004 | Cannot Access Shared Folder | Medium |
-| HD-005 | Domain Connectivity / DNS Failure | High |
-| HD-006 | Tier 2 Escalation | High |
+| HD-004 | Domain Connectivity / DNS Failure | High |
+| HD-005 | Tier 2 Escalation | High |
 
 ## Lab Walk-Through
 
@@ -35,7 +34,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 
 
-<h3>HD-003: Printer Not Working</h3>
+<h3>1. HD-003: Printer Not Working</h3>
 
 
 <p align="center">
@@ -142,7 +141,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 <h3 align="center">(Medium Priority Tickets)</h3> 
 
-#### Ticket HD-001: Password Reset
+#### 2. Ticket HD-002: Password Reset
 
 <p align="center">
   <strong>Ticket Creation:</strong> John Smith submitted a support request after forgetting his Windows login password and being unable to access his workstation. The ticket was assigned Medium priority.
@@ -273,7 +272,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 <h3 align="center">(Medium Priority Tickets)</h3> 
 
-#### Ticket HD-002: Account Locked Out
+#### 3. Ticket HD-003: Account Locked Out
 
 <p align="center">
   <strong>Ticket Creation:</strong> John Smith submitted a support request after his Windows domain account became locked, preventing him from accessing his Windows 11 workstation. The ticket was assigned Medium priority.
@@ -402,14 +401,9 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 
 
-
-
-#### Ticket HD-004: Cannot Access Shared Folder
-
-
 <h3 align="center">(High Priority Tickets)</h3> 
 
-#### Ticket HD-005: Domain Connectivity / DNS Failure
+#### 4. Ticket HD-004: Domain Connectivity / DNS Failure
 
 
 <h3>HD-005: Domain Connectivity / DNS Failure</h3>
