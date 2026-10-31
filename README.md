@@ -140,11 +140,132 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 </p>
 
 
-
-
 ### Medium Priority Tickets
 
 #### Ticket HD-001: Password Reset
+
+<h3>HD-001: Password Reset</h3>
+
+<p align="center">
+  <strong>Ticket Creation:</strong> John Smith submitted a support request after forgetting his Windows login password and being unable to access his workstation. The ticket was assigned Medium priority.
+</p>
+
+<p align="center">
+  <img src="YOUR-TICKET-CREATION-IMAGE-URL" width="800">
+</p>
+
+<p align="center"><strong>Initial Support Request</strong></p>
+
+<h4>IT Support Response</h4>
+
+<p align="center">
+  <img src="YOUR-SUPPORT-RESPONSE-IMAGE-URL" width="800">
+</p>
+
+<h4>John Response</h4>
+
+<p align="center">
+  <img src="YOUR-JOHN-RESPONSE-IMAGE-URL" width="800">
+</p>
+
+
+## Password Reset Troubleshooting Walk-Through
+
+<p align="center"><strong>Initial Troubleshooting</strong></p>
+
+<h4>Problem Identification</h4>
+
+<p align="center">
+  <img src="YOUR-LOGIN-FAILURE-IMAGE-URL" width="700">
+</p>
+
+<p align="center">
+  <strong>Problem Identification:</strong> I attempted to sign in to John Smith's Windows 11 workstation and received an incorrect password error, confirming that the existing credentials were not working.
+</p>
+
+<p align="center"><strong>Windows Login Failure</strong></p>
+
+
+<h4>Active Directory Password Reset</h4>
+
+<p align="center">
+  <img src="YOUR-PASSWORD-RESET-IMAGE-URL" width="48%">
+  <img src="YOUR-RESET-CONFIRMATION-IMAGE-URL" width="48%">
+</p>
+
+<p align="center">
+  <strong>Active Directory Password Reset:</strong> I opened Active Directory Users and Computers, located John Smith's account in the IT organizational unit, and reset his password. I selected "User must change password at next logon" to require John to create a new password when signing in. Active Directory confirmed that the password was successfully changed.
+</p>
+
+<p align="center"><strong>Password Reset Configuration | Password Reset Successful</strong></p>
+
+
+<h4>Password Change Verification</h4>
+
+<p align="center">
+  <img src="YOUR-PASSWORD-CHANGE-REQUIRED-IMAGE-URL" width="48%">
+  <img src="YOUR-PASSWORD-CHANGE-SUCCESS-IMAGE-URL" width="48%">
+</p>
+
+<p align="center">
+  <strong>Password Change Verification:</strong> After entering the temporary password, Windows prompted John Smith to change his password before signing in. I completed the required password change process, and Windows confirmed that the new password was successfully set.
+</p>
+
+<p align="center"><strong>Password Change Required | Password Changed Successfully</strong></p>
+
+
+<h4>Login Verification</h4>
+
+<p align="center">
+  <img src="YOUR-LOGIN-VERIFICATION-IMAGE-URL" width="700">
+</p>
+
+<p align="center">
+  <strong>Login Verification:</strong> After the password change, I successfully signed in to the Windows 11 workstation using John Smith's domain account. I opened Command Prompt and executed the whoami command, which returned corp\john.smith, confirming that the correct domain account was authenticated.
+</p>
+
+<p align="center"><strong>Successful Domain Login Verification</strong></p>
+
+
+## End Of Password Reset Troubleshooting Walk-Through
+
+<p align="center"><strong>Resolution Confirmed</strong></p>
+
+<p align="center">
+  <img src="YOUR-RESOLUTION-CONFIRMATION-IMAGE-URL" width="800">
+</p>
+
+<p align="center">
+  <strong>Resolution Confirmation:</strong> I informed John Smith that his Active Directory password had been reset and the new password was working successfully. John confirmed that he could access his Windows workstation again.
+</p>
+
+
+<h4>Ticket Documentation</h4>
+
+<p align="center">
+  <img src="YOUR-INTERNAL-NOTE-IMAGE-URL" width="800">
+</p>
+
+<p align="center">
+  <strong>Ticket Documentation:</strong> I documented the reported login issue, troubleshooting steps, Active Directory password reset, required password change, and successful login verification in a private Spiceworks internal note before closing the ticket.
+</p>
+
+
+<h4>Ticket Closed</h4>
+
+<p align="center">
+  <img src="YOUR-TICKET-CLOSED-IMAGE-URL" width="800">
+</p>
+
+<p align="center">
+  <strong>Ticket Closed:</strong> After successfully resetting John Smith's password, verifying that he could sign in to his domain account, and receiving employee confirmation, I documented the resolution in an internal note and closed the ticket in Spiceworks.
+</p>
+
+
+
+
+
+
 
 #### Ticket HD-002: Account Locked Out
 
