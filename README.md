@@ -67,7 +67,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 <p align="center">
   <img src="https://i.imgur.com/AK9ALHU.png" width="48%">
-  <img src="https://i.imgur.com/2cCIaDp.png" width="48%">
+  
 </p>
 <p align="center">
   <strong>Problem Identification:</strong> I attempted to print a test page using Microsoft Print to PDF but received error 0x000006ba, indicating that the Print Spooler service was not running.
@@ -201,8 +201,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Password Change Verification</h4>
 
 <p align="center">
-  <img src="YOUR-PASSWORD-CHANGE-REQUIRED-IMAGE-URL" width="48%">
-  <img src="YOUR-PASSWORD-CHANGE-SUCCESS-IMAGE-URL" width="48%">
+  <img src="https://i.imgur.com/00b7xUS.png" width="48%">
 </p>
 
 <p align="center">
