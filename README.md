@@ -137,9 +137,8 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <p align="center">
   <img src="https://i.imgur.com/vvK4KTx.png" width="800">
 </p>
-
 <p align="center">
-  <strong>Ticket Closed</strong>
+  <strong>Ticket Closure:</strong> After successfully resolving the printer issue, verifying that printing functionality was restored, and receiving confirmation from John Smith, I documented the troubleshooting steps and resolution in an internal note. I then closed the ticket in Spiceworks.
 </p>
 
 
