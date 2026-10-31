@@ -294,7 +294,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>John Response</h4>
 
 <p align="center">
-  <img src="YOUR-JOHN-RESPONSE-IMAGE-URL" width="800">
+  <img src="https://i.imgur.com/sE9FqYW.png" width="800">
 </p>
 
 ## Account Lockout Troubleshooting Walk-Through
