@@ -340,7 +340,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Resolution Verification</h4>
 
 <p align="center">
-  <img src="YOUR-IMAGE-URL-5" width="800">
+  <img src="https://i.imgur.com/ADl4g8s.jpeg" width="800">
 </p>
 
 <p align="center">
