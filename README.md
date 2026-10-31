@@ -481,12 +481,11 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <p align="center">
   <img src="https://i.imgur.com/SvoQtkE.png" width="800">
 </p>
-
 <p align="center">
-  <strong>DNS Configuration Correction:</strong> After identifying the DNS configuration issue, I updated the Windows 11 workstation's DNS settings to use the appropriate internal DNS server associated with the Active Directory domain controller.
+  <strong>DNS Resolution Verification:</strong> After restoring network connectivity, I executed nslookup against the internal DNS server at 10.50.1.4. The domain corp.ashraflab.test successfully resolved to 10.50.1.4, confirming that DNS resolution was functioning correctly.
 </p>
 
-<p align="center"><strong>DNS Server Configuration Restored</strong></p>
+<p align="center"><strong>Successful DNS Resolution</strong></p>
 
 <h4>DNS Resolution Verification</h4>
 
