@@ -174,7 +174,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Problem Identification</h4>
 
 <p align="center">
-  <img src="https://i.imgur.com/W5cxYFl.png" width="700">
+  <img src="https://i.imgur.com/W5cxYFl.png" width="70%">
 </p>
 
 <p align="center">
@@ -201,7 +201,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Password Change Verification</h4>
 
 <p align="center">
-  <img src="https://i.imgur.com/00b7xUS.png" width="48%">
+  <img src="https://i.imgur.com/Ap40uSi.png" width="70%">
 </p>
 
 <p align="center">
