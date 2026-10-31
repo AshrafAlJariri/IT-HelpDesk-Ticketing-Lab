@@ -479,7 +479,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Troubleshooting and Resolution</h4>
 
 <p align="center">
-  <img src="YOUR-DNS-CORRECTION-IMAGE-URL" width="800">
+  <img src="https://i.imgur.com/12Ud7h2.png" width="800">
 </p>
 
 <p align="center">
