@@ -122,7 +122,25 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <p align="center">
   <strong>Resolution Confirmation:</strong> I informed John Smith that I restored the Print Spooler service and successfully tested Microsoft Print to PDF. John confirmed that he was able to print documents again without any issues.
 </p>
-<p align="center"><strong>Ticket Closed</strong></p>
+<h4> Ticket Documentation</h4>
+
+<p align="center">
+  <img src="https://i.imgur.com/8P5w52s.png" width="800">
+</p>
+
+<p align="center">
+  <strong>Ticket Documentation:</strong> I documented the reported issue, troubleshooting steps, root cause, resolution, verification results, and employee confirmation in a private Spiceworks internal note before closing the ticket.
+</p>
+
+<h4>Ticket Closed</h4>
+
+<p align="center">
+  <img src="images/003-ticket-closed.png" width="800">
+</p>
+
+<p align="center">
+  <strong>Ticket Closed</strong>
+</p>
 
 
 
