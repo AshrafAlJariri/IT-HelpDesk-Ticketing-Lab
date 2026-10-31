@@ -536,8 +536,8 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Ticket Documentation and Closure</h4>
 
 <p align="center">
-  <img src="YOUR-INTERNAL-DOCUMENTATION-IMAGE-URL" width="48%">
-  <img src="YOUR-CLOSED-TICKET-IMAGE-URL" width="48%">
+  <img src="https://i.imgur.com/ss3DG2I.jpeg" width="80%">
+
 </p>
 
 <p align="center">
