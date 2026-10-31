@@ -495,10 +495,10 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 </p>
 
 <p align="center">
-  <strong>Domain Controller Discovery:</strong> After verifying DNS resolution, I executed nltest /dsgetdc:corp.ashraflab.test /force to confirm that the workstation could locate the Active Directory domain controller. The command successfully identified Ashraf-DC-01 at 10.50.1.4.
+  <strong>Final Domain Connectivity Verification:</strong> I verified the workstation's DNS configuration, successfully resolved corp.ashraflab.test to 10.50.1.4, and confirmed that the domain controller could be discovered. The Test-ComputerSecureChannel command returned True, confirming that the Active Directory secure channel was functioning correctly.
 </p>
 
-<p align="center"><strong>Active Directory Domain Controller Successfully Discovered</strong></p>
+<p align="center"><strong>DNS Resolution | Domain Controller Discovery | Secure Channel Verified</strong></p>
 
 
 <h4>Domain Connectivity Verification</h4>
