@@ -516,14 +516,16 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Domain Authentication Verification</h4>
 
 <p align="center">
-  <img src="YOUR-DOMAIN-LOGIN-VERIFICATION-IMAGE-URL" width="800">
+  <img src="https://i.imgur.com/xefpYOi.png" width="800">
 </p>
 
 <p align="center">
-  <strong>Domain Authentication Verification:</strong> I verified that the workstation could discover the domain controller and authenticate the domain user account, confirming that Active Directory connectivity was restored.
+  <strong>Domain User and DNS Verification:</strong> I executed the whoami command, which returned CORP\john.smith, confirming that John Smith was signed in to his domain account. I then used nslookup to verify that the internal DNS server at 10.50.1.4 successfully resolved corp.ashraflab.test to the correct IP address.
 </p>
 
-<p align="center"><strong>Successful Domain Authentication</strong></p>
+<p align="center">
+  <strong>Domain User Verification | Successful DNS Resolution</strong>
+</p>
 
 ## End Of Domain Connectivity / DNS Troubleshooting Walk-Through
 
