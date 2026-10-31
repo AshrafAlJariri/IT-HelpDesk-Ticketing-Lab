@@ -198,8 +198,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <p align="center"><strong>Password Reset Configuration | Password Reset Successful</strong></p>
 
 
-<h4>Password Change Verification</h4>
-
+<h4>Password Change Required/h4>
 <p align="center">
   <img src="https://i.imgur.com/Ap40uSi.png" width="70%">
 </p>
