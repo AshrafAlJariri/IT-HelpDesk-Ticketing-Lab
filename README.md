@@ -546,7 +546,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 <p align="center"><strong>Internal Ticket Documentation | Ticket Closed</strong></p>
 
-(High Priority Tickets)
+<h3 align="center">(High Priority Tickets)</h3> 
 
 #### Ticket HD-006: Tier 2 Escalation
 
