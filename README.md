@@ -114,7 +114,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <p align="center"><strong>Resolution Confirmed</strong></p>
 
 <p align="center">
-  <img src="https://i.imgur.com/imWOkS2.png" width="80">
+  <img src="https://i.imgur.com/imWOkS2.png" width="80%">
 </p>
 
 <p align="center">
