@@ -144,8 +144,6 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 #### Ticket HD-001: Password Reset
 
-<h3>HD-001: Password Reset</h3>
-
 <p align="center">
   <strong>Ticket Creation:</strong> John Smith submitted a support request after forgetting his Windows login password and being unable to access his workstation. The ticket was assigned Medium priority.
 </p>
