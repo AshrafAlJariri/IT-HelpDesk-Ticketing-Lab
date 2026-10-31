@@ -407,10 +407,153 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 #### Ticket HD-004: Cannot Access Shared Folder
 
 
-
-### High Priority Tickets
+<h3 align="center">(High Priority Tickets)</h3> 
 
 #### Ticket HD-005: Domain Connectivity / DNS Failure
+
+
+<h3>HD-005: Domain Connectivity / DNS Failure</h3>
+
+<p align="center">
+  <strong>Ticket Creation:</strong> John Smith submitted a support request after experiencing connectivity issues with the company domain and being unable to access domain resources from his Windows 11 workstation. The ticket was assigned High priority.
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/TOVbCnt.png" width="800">
+</p>
+
+<p align="center"><strong>Initial Support Request</strong></p>
+
+<h4>IT Support Response</h4>
+
+<p align="center">
+  <img src="YOUR-IT-SUPPORT-RESPONSE-IMAGE-URL" width="800">
+</p>
+
+<h4>John Response</h4>
+
+<p align="center">
+  <img src="YOUR-JOHN-RESPONSE-IMAGE-URL" width="800">
+</p>
+
+## Domain Connectivity / DNS Troubleshooting Walk-Through
+
+<p align="center"><strong>Initial Troubleshooting</strong></p>
+
+<h4>Problem Identification</h4>
+
+<p align="center">
+  <img src="YOUR-DOMAIN-CONNECTIVITY-ERROR-IMAGE-URL" width="800">
+</p>
+
+<p align="center">
+  <strong>Problem Identification:</strong> I investigated the reported domain connectivity issue and reproduced a failure when attempting to communicate with the Active Directory domain controller from the Windows 11 workstation.
+</p>
+
+<p align="center"><strong>Domain Connectivity Failure</strong></p>
+
+<h4>DNS Configuration Examination</h4>
+
+<p align="center">
+  <img src="YOUR-IPCONFIG-IMAGE-URL" width="800">
+</p>
+
+<p align="center">
+  <strong>DNS Configuration Examination:</strong> I opened Command Prompt and executed the ipconfig /all command to review the workstation's network configuration, including its IP address, DNS servers, and network adapter settings.
+</p>
+
+<p align="center"><strong>Network and DNS Configuration</strong></p>
+
+<h4>DNS Troubleshooting</h4>
+
+<p align="center">
+  <img src="YOUR-NSLOOKUP-FAILURE-IMAGE-URL" width="800">
+</p>
+
+<p align="center">
+  <strong>DNS Troubleshooting:</strong> I executed the nslookup command to test DNS resolution for corp.ashraflab.test. The lookup failed, indicating that the workstation could not resolve the Active Directory domain using its current DNS configuration.
+</p>
+
+<p align="center"><strong>DNS Resolution Failure</strong></p>
+
+<h4>Troubleshooting and Resolution</h4>
+
+<p align="center">
+  <img src="YOUR-DNS-CORRECTION-IMAGE-URL" width="800">
+</p>
+
+<p align="center">
+  <strong>DNS Configuration Correction:</strong> After identifying the DNS configuration issue, I updated the Windows 11 workstation's DNS settings to use the appropriate internal DNS server associated with the Active Directory domain controller.
+</p>
+
+<p align="center"><strong>DNS Server Configuration Restored</strong></p>
+
+<h4>DNS Resolution Verification</h4>
+
+<p align="center">
+  <img src="YOUR-NSLOOKUP-SUCCESS-IMAGE-URL" width="800">
+</p>
+
+<p align="center">
+  <strong>DNS Resolution Verification:</strong> After correcting the DNS settings, I repeated the nslookup test and confirmed that the workstation could successfully resolve corp.ashraflab.test using the internal DNS server.
+</p>
+
+<p align="center"><strong>Successful Domain DNS Resolution</strong></p>
+
+<h4>Domain Connectivity Verification</h4>
+
+<p align="center">
+  <img src="YOUR-DOMAIN-CONNECTIVITY-VERIFICATION-IMAGE-URL" width="800">
+</p>
+
+<p align="center">
+  <strong>Domain Connectivity Verification:</strong> I performed additional network connectivity tests to confirm that the Windows 11 workstation could communicate with the domain controller after restoring the correct DNS configuration.
+</p>
+
+<p align="center"><strong>Domain Controller Connectivity Restored</strong></p>
+
+<h4>Domain Authentication Verification</h4>
+
+<p align="center">
+  <img src="YOUR-DOMAIN-LOGIN-VERIFICATION-IMAGE-URL" width="800">
+</p>
+
+<p align="center">
+  <strong>Domain Authentication Verification:</strong> I verified that the workstation could discover the domain controller and authenticate the domain user account, confirming that Active Directory connectivity was restored.
+</p>
+
+<p align="center"><strong>Successful Domain Authentication</strong></p>
+
+## End Of Domain Connectivity / DNS Troubleshooting Walk-Through
+
+<p align="center"><strong>Resolution Confirmed</strong></p>
+
+<p align="center">
+  <img src="YOUR-RESOLUTION-CONFIRMATION-IMAGE-URL" width="80%">
+</p>
+
+<p align="center">
+  <strong>Resolution Confirmation:</strong> I informed John Smith that the DNS configuration issue had been corrected and that domain connectivity was restored. John confirmed that he could access the company domain resources without further issues.
+</p>
+
+<h4>Ticket Documentation and Closure</h4>
+
+<p align="center">
+  <img src="YOUR-INTERNAL-DOCUMENTATION-IMAGE-URL" width="48%">
+  <img src="YOUR-CLOSED-TICKET-IMAGE-URL" width="48%">
+</p>
+
+<p align="center">
+  <strong>Ticket Documentation and Closure:</strong> After resolving the DNS configuration issue and verifying that domain connectivity and authentication were restored, I documented the reported issue, troubleshooting steps, resolution, verification results, and employee confirmation in a private Spiceworks internal note. I then closed the ticket.
+</p>
+
+<p align="center"><strong>Internal Ticket Documentation | Ticket Closed</strong></p>
+
+
+
+
+
+
 
 #### Ticket HD-006: Tier 2 Escalation
 
