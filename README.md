@@ -31,7 +31,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 ## Lab Walk-Through
 
 
-<h3 align="center">Low Priority Tickets</h3> 
+<h3 align="center">(Low Priority Tickets)</h3> 
 
 
 
@@ -140,7 +140,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 </p>
 
 
-<h3 align="center">Medium Priority Tickets</h3> 
+<h3 align="center">(Medium Priority Tickets)</h3> 
 
 #### Ticket HD-001: Password Reset
 
