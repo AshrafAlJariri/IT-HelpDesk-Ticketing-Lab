@@ -187,7 +187,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Active Directory Password Reset</h4>
 
 <p align="center">
-  <img src="https://i.imgur.com/00b7xUS.png" width="80%">
+  <img src="https://i.imgur.com/00b7xUS.png" width="800%">
 
 </p>
 
