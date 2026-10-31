@@ -223,7 +223,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 <h4>Domain Login Verification</h4>
   <p align="center">
-  <img src="https://i.imgur.com/FdAIutf.jpeg" width="800%">
+  <img src="https://i.imgur.com/FdAIutf.jpeg" width="8000%">
 </p>
 <p align="center">
   <strong>Domain Login Verification:</strong> After changing the password, I successfully signed in to the Windows 11 workstation using John Smith's updated credentials. I then opened Command Prompt and executed the whoami command, which returned CORP\john.smith, verifying that the correct domain user account was signed in.
