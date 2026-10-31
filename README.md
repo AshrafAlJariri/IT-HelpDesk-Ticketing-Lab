@@ -443,7 +443,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Problem Identification</h4>
 
 <p align="center">
-  <img src="YOUR-DOMAIN-CONNECTIVITY-ERROR-IMAGE-URL" width="800">
+  <img src="https://i.imgur.com/FrHIxO6.jpeg" width="800">
 </p>
 
 <p align="center">
