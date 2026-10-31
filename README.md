@@ -1,7 +1,7 @@
 
 # IT-Ticketing-Lab
 
-A hands-on IT Help Desk lab demonstrating ticket management, troubleshooting, issue resolution, and escalation using Spiceworks Cloud Help Desk, Active Directory, and Windows administration tools.
+A hands-on IT Ticketing lab demonstrating ticket management, troubleshooting, issue resolution, and escalation using Spiceworks Cloud Help Desk, Active Directory, and Windows administration tools.
 
 ## Description
 
