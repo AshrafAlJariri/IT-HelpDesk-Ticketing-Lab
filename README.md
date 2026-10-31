@@ -504,14 +504,14 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Domain Connectivity Verification</h4>
 
 <p align="center">
-  <img src="YOUR-DOMAIN-CONNECTIVITY-VERIFICATION-IMAGE-URL" width="800">
+  <img src="https://i.imgur.com/ai6pYq8.png" width="800">
 </p>
 
 <p align="center">
-  <strong>Domain Connectivity Verification:</strong> I performed additional network connectivity tests to confirm that the Windows 11 workstation could communicate with the domain controller after restoring the correct DNS configuration.
+  <strong>Domain Connectivity Verification:</strong> I verified that John Smith was signed in using his domain account (CORP\john.smith) and confirmed that corp.ashraflab.test successfully resolved to 10.50.1.4 using the internal DNS server.
 </p>
 
-<p align="center"><strong>Domain Controller Connectivity Restored</strong></p>
+<p align="center"><strong>Domain User Verification | Successful DNS Resolution</strong></p>
 
 <h4>Domain Authentication Verification</h4>
 
