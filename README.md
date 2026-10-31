@@ -364,8 +364,8 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Successful Login Verification</h4>
 
 <p align="center">
-  <img src="YOUR-IMAGE-URL-7" width="48%">
-  <img src="YOUR-IMAGE-URL-8" width="48%">
+  <img src="https://i.imgur.com/0Dw0rMf.png" width="100%">
+  
 </p>
 
 <p align="center">
