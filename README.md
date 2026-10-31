@@ -149,7 +149,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 </p>
 
 <p align="center">
-  <img src="YOUR-TICKET-CREATION-IMAGE-URL" width="800">
+  <img src="https://i.imgur.com/xCaIS9s.png" width="800">
 </p>
 
 <p align="center"><strong>Initial Support Request</strong></p>
