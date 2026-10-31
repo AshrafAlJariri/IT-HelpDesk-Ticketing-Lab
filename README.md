@@ -238,7 +238,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <p align="center"><strong>Resolution Confirmed</strong></p>
 
 <p align="center">
-  <img src="YOUR-RESOLUTION-CONFIRMATION-IMAGE-URL" width="800">
+  <img src="https://i.imgur.com/zCq3iPF.png" width="800">
 </p>
 
 <p align="center">
@@ -260,7 +260,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Ticket Closed</h4>
 
 <p align="center">
-  <img src="YOUR-TICKET-CLOSED-IMAGE-URL" width="800">
+  <img src="https://i.imgur.com/zCq3iPF.png" width="800">
 </p>
 
 <p align="center">
