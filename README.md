@@ -290,7 +290,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>IT Support Response</h4>
 
 <p align="center">
-  <img src="YOUR-IT-SUPPORT-RESPONSE-IMAGE-URL" width="800">
+  <img src="https://i.imgur.com/lrwNcLT.png" width="800">
 </p>
 
 <h4>John Response</h4>
