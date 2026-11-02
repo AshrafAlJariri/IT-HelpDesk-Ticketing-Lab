@@ -702,8 +702,9 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <p align="center">
   <strong>Final Ticket Status:</strong> I verified that the ticket remained open and was assigned to adam cane (Tier 2 support) for further troubleshooting. The Tier 1 investigation, diagnostic findings, and escalation details were documented to ensure a clear handoff without prematurely closing the unresolved incident.
 </p>
-
-<p align="center"><strong>Ticket Escalated | Awaiting Tier 2 Investigation</strong></p>
+<p align="center">
+  <strong>Open Ticket | High Priority | Tier 2 Support Assigned</strong>
+</p>
 
 
 
