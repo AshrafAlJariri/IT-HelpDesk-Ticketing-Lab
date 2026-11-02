@@ -602,6 +602,20 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
   <strong>Reliability Monitor Examination:</strong> I opened Windows Reliability Monitor to review the workstation's stability history and check for application failures, Windows failures, or other critical events associated with the reported crashes.
 </p>
 
+
+<h4>Critical Application Failure Investigation</h4>
+
+<p align="center">
+  <img src="https://i.imgur.com/gBDDlgh.png" width="800">
+</p>
+
+<p align="center">
+  <strong>Critical Application Failure Investigation:</strong> I reviewed the Reliability Monitor technical details and identified an application hang involving AzVpnSysTrayApp.exe, a component of Microsoft Azure VPN Client. Windows recorded that the application stopped responding and was closed. I documented the event for further investigation into the reported workstation instability.
+</p>
+
+<p align="center"><strong>Azure VPN Client Application Hang | Reliability Monitor</strong></p>
+
+
 <p align="center"><strong>Windows Reliability History</strong></p>
 
 <h4>Windows Event Viewer Investigation</h4>
