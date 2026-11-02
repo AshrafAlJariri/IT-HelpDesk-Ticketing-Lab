@@ -552,6 +552,146 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 
 
+<h3>HD-006: Tier 2 Escalation</h3>
+
+<p align="center">
+  <strong>Ticket Creation:</strong> John Smith submitted a support request after experiencing repeated Windows 11 system freezes and unexpected restarts that disrupted his daily work. The ticket was assigned High priority.
+</p>
+
+<p align="center">
+  <img src="YOUR-TICKET-CREATION-IMAGE-URL" width="800">
+</p>
+
+<p align="center"><strong>Initial Support Request</strong></p>
+
+<h4>IT Support Response</h4>
+
+<p align="center">
+  <img src="YOUR-IT-SUPPORT-RESPONSE-IMAGE-URL" width="800">
+</p>
+
+<h4>John Response</h4>
+
+<p align="center">
+  <img src="YOUR-JOHN-RESPONSE-IMAGE-URL" width="800">
+</p>
+
+## Tier 1 Troubleshooting Walk-Through
+
+<p align="center"><strong>Initial Troubleshooting</strong></p>
+
+<h4>Problem Identification</h4>
+
+<p align="center">
+  <img src="https://i.imgur.com/V6Xkh8B.png" width="800">
+</p>
+
+<p align="center">
+  <strong>Problem Identification:</strong> I investigated John Smith's report of repeated Windows 11 freezes and unexpected restarts. I reviewed the reported symptoms and began examining system diagnostics to identify possible causes of the instability.
+</p>
+
+<p align="center"><strong>Windows System Instability Investigation</strong></p>
+
+<h4>Reliability Monitor Examination</h4>
+
+<p align="center">
+  <img src="YOUR-RELIABILITY-MONITOR-IMAGE-URL" width="800">
+</p>
+
+<p align="center">
+  <strong>Reliability Monitor Examination:</strong> I opened Windows Reliability Monitor to review the workstation's stability history and check for application failures, Windows failures, or other critical events associated with the reported crashes.
+</p>
+
+<p align="center"><strong>Windows Reliability History</strong></p>
+
+<h4>Windows Event Viewer Investigation</h4>
+
+<p align="center">
+  <img src="YOUR-EVENT-VIEWER-IMAGE-URL" width="800">
+</p>
+
+<p align="center">
+  <strong>Event Viewer Investigation:</strong> I opened Windows Event Viewer and examined the System logs for critical errors and warnings around the reported restart times. I recorded relevant event information to support further investigation.
+</p>
+
+<p align="center"><strong>Windows System Event Logs</strong></p>
+
+<h4>Initial System Diagnostics</h4>
+
+<p align="center">
+  <img src="YOUR-SYSTEM-DIAGNOSTICS-IMAGE-URL" width="800">
+</p>
+
+<p align="center">
+  <strong>Initial System Diagnostics:</strong> I performed basic Windows troubleshooting checks to investigate possible software or operating system issues. I reviewed the diagnostic results to determine whether the problem could be resolved through standard Tier 1 support procedures.
+</p>
+
+<p align="center"><strong>Tier 1 Diagnostic Results</strong></p>
+
+<h4>Escalation Decision</h4>
+
+<p align="center">
+  <img src="YOUR-ESCALATION-DECISION-IMAGE-URL" width="800">
+</p>
+
+<p align="center">
+  <strong>Escalation Decision:</strong> After completing the initial investigation, the underlying cause of the reported system instability remained unresolved. I determined that additional advanced troubleshooting was required and prepared the ticket for escalation to Tier 2 support.
+</p>
+
+<p align="center"><strong>Advanced Troubleshooting Required</strong></p>
+
+## End Of Tier 1 Troubleshooting Walk-Through
+
+<p align="center"><strong>Tier 2 Escalation</strong></p>
+
+<h4>Escalation Documentation</h4>
+
+<p align="center">
+  <img src="YOUR-INTERNAL-NOTE-IMAGE-URL" width="800">
+</p>
+
+<p align="center">
+  <strong>Escalation Documentation:</strong> I documented the reported symptoms, business impact, troubleshooting actions, diagnostic findings, and unresolved issues in a private Spiceworks internal note to provide Tier 2 support with the necessary information for further investigation.
+</p>
+
+<p align="center"><strong>Tier 1 Troubleshooting Summary | Tier 2 Handoff</strong></p>
+
+<h4>Ticket Escalation</h4>
+
+<p align="center">
+  <img src="YOUR-TIER-2-ASSIGNMENT-IMAGE-URL" width="800">
+</p>
+
+<p align="center">
+  <strong>Ticket Escalation:</strong> I escalated the unresolved ticket to Tier 2 support for advanced investigation. The ticket was retained as High priority and transferred to the appropriate technician or escalation queue for continued troubleshooting.
+</p>
+
+<p align="center"><strong>Ticket Assigned to Tier 2 Support</strong></p>
+
+<h4>User Notification</h4>
+
+<p align="center">
+  <img src="YOUR-USER-NOTIFICATION-IMAGE-URL" width="800">
+</p>
+
+<p align="center">
+  <strong>User Notification:</strong> I informed John Smith that the initial troubleshooting was complete but the issue required further investigation. I explained that the ticket had been escalated to Tier 2 support and that the support team would continue working toward a resolution.
+</p>
+
+<p align="center"><strong>Tier 2 Escalation Communicated to User</strong></p>
+
+<h4>Final Ticket Status</h4>
+
+<p align="center">
+  <img src="YOUR-FINAL-TICKET-STATUS-IMAGE-URL" width="800">
+</p>
+
+<p align="center">
+  <strong>Final Ticket Status:</strong> I verified that the ticket remained open and was assigned to Tier 2 support for further troubleshooting. The Tier 1 investigation, diagnostic findings, and escalation details were documented to ensure a clear handoff without prematurely closing the unresolved incident.
+</p>
+
+<p align="center"><strong>Ticket Escalated | Awaiting Tier 2 Investigation</strong></p>
+
 
 
 
