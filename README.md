@@ -567,13 +567,13 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>IT Support Response</h4>
 
 <p align="center">
-  <img src="YOUR-IT-SUPPORT-RESPONSE-IMAGE-URL" width="800">
+  <img src="https://i.imgur.com/I21EhU8.png" width="800">
 </p>
 
 <h4>John Response</h4>
 
 <p align="center">
-  <img src="YOUR-JOHN-RESPONSE-IMAGE-URL" width="800">
+  <img src="https://i.imgur.com/gCSR70i.png" width="800">
 </p>
 
 ## Tier 1 Troubleshooting Walk-Through
