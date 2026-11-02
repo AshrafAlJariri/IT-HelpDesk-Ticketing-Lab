@@ -712,4 +712,8 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 
 ## What I Learned
 
-This section will summarize the ticket management, troubleshooting, communication, documentation, and escalation skills gained after completing all six scenarios.
+Through this project, I gained hands-on experience using Spiceworks Cloud Help Desk and Active Directory to troubleshoot, document, and resolve IT support tickets.
+
+I developed skills in resolving account, printer, and network issues, communicating with users, and escalating complex problems to Tier 2 support.
+
+Overall, this project strengthened my troubleshooting, ticket management, and customer service skills for an entry-level IT Help Desk role.
