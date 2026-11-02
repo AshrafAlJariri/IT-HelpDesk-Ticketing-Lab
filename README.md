@@ -673,23 +673,22 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Ticket Escalation</h4>
 
 <p align="center">
-  <img src="YOUR-TIER-2-ASSIGNMENT-IMAGE-URL" width="800">
+  <img src="https://i.imgur.com/1tMc7DF.png" width="800">
 </p>
 
 <p align="center">
-  <strong>Ticket Escalation:</strong> I escalated the unresolved ticket to Tier 2 support for advanced investigation. The ticket was retained as High priority and transferred to the appropriate technician or escalation queue for continued troubleshooting.
+  <strong>Ticket Escalation:</strong> After completing the initial investigation and documenting my findings, I reassigned the unresolved High-priority ticket to Adam Cane (Tier 2 Support) for advanced troubleshooting.
 </p>
 
-<p align="center"><strong>Ticket Assigned to Tier 2 Support</strong></p>
+<p align="center"><strong>Ticket Reassigned to Tier 2 Support</strong></p>
 
 <h4>User Notification</h4>
 
 <p align="center">
-  <img src="YOUR-USER-NOTIFICATION-IMAGE-URL" width="800">
+  <img src="https://i.imgur.com/1tMc7DF.png" width="800">
 </p>
-
 <p align="center">
-  <strong>User Notification:</strong> I informed John Smith that the initial troubleshooting was complete but the issue required further investigation. I explained that the ticket had been escalated to Tier 2 support and that the support team would continue working toward a resolution.
+  <strong>User Notification:</strong> I informed John Smith that the initial troubleshooting was completed and that the unresolved issue had been escalated to Adam Cane (Tier 2 Support) for further investigation.
 </p>
 
 <p align="center"><strong>Tier 2 Escalation Communicated to User</strong></p>
@@ -697,11 +696,11 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Final Ticket Status</h4>
 
 <p align="center">
-  <img src="YOUR-FINAL-TICKET-STATUS-IMAGE-URL" width="800">
+  <img src="https://i.imgur.com/DRzbe4O.png" width="800">
 </p>
 
 <p align="center">
-  <strong>Final Ticket Status:</strong> I verified that the ticket remained open and was assigned to Tier 2 support for further troubleshooting. The Tier 1 investigation, diagnostic findings, and escalation details were documented to ensure a clear handoff without prematurely closing the unresolved incident.
+  <strong>Final Ticket Status:</strong> I verified that the ticket remained open and was assigned to adam cane (Tier 2 support) for further troubleshooting. The Tier 1 investigation, diagnostic findings, and escalation details were documented to ensure a clear handoff without prematurely closing the unresolved incident.
 </p>
 
 <p align="center"><strong>Ticket Escalated | Awaiting Tier 2 Investigation</strong></p>
