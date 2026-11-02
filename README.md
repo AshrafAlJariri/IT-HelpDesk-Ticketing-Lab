@@ -621,11 +621,15 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Windows Event Viewer Investigation</h4>
 
 <p align="center">
-  <img src="YOUR-EVENT-VIEWER-IMAGE-URL" width="800">
+  <img src="https://i.imgur.com/TLPkBXP.png" width="800">
 </p>
 
 <p align="center">
-  <strong>Event Viewer Investigation:</strong> I opened Windows Event Viewer and examined the System logs for critical errors and warnings around the reported restart times. I recorded relevant event information to support further investigation.
+  <img src="https://i.imgur.com/1n6bG3E.png" width="800">
+</p>
+
+<p align="center">
+  <strong>Event Viewer Investigation:</strong> I opened Windows Event Viewer and examined the System for critical and errors logs  around the reported restart times. I recorded relevant event information to support further investigation.
 </p>
 
 <p align="center"><strong>Windows System Event Logs</strong></p>
@@ -633,14 +637,16 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Initial System Diagnostics</h4>
 
 <p align="center">
-  <img src="YOUR-SYSTEM-DIAGNOSTICS-IMAGE-URL" width="800">
+  <img src="https://i.imgur.com/znAMDZk.png" width="800">
 </p>
 
 <p align="center">
-  <strong>Initial System Diagnostics:</strong> I performed basic Windows troubleshooting checks to investigate possible software or operating system issues. I reviewed the diagnostic results to determine whether the problem could be resolved through standard Tier 1 support procedures.
+  <strong>Initial System Diagnostics:</strong> I investigated repeated HAL Event ID 20 errors in Windows Event Viewer. The events reported that Windows could not query the hardware real-time clock because an ACPI Time and Alarm Device method failed (status 0xC0000001). Although these errors indicated a system-level issue requiring investigation, the available logs did not establish the cause of the reported unexpected restarts.
 </p>
 
-<p align="center"><strong>Tier 1 Diagnostic Results</strong></p>
+<p align="center">
+  <strong>HAL Event ID 20 | ACPI Error Investigation</strong>
+</p>
 
 <h4>Escalation Decision</h4>
 
