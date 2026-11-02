@@ -648,33 +648,27 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
   <strong>HAL Event ID 20 | ACPI Error Investigation</strong>
 </p>
 
-<h4>Escalation Decision</h4>
-
-<p align="center">
-  <img src="YOUR-ESCALATION-DECISION-IMAGE-URL" width="800">
-</p>
-
-<p align="center">
-  <strong>Escalation Decision:</strong> After completing the initial investigation, the underlying cause of the reported system instability remained unresolved. I determined that additional advanced troubleshooting was required and prepared the ticket for escalation to Tier 2 support.
-</p>
-
 <p align="center"><strong>Advanced Troubleshooting Required</strong></p>
 
 ## End Of Tier 1 Troubleshooting Walk-Through
 
 <p align="center"><strong>Tier 2 Escalation</strong></p>
 
-<h4>Escalation Documentation</h4>
+<h4>Escalation Decision and Documentation</h4>
 
 <p align="center">
-  <img src="YOUR-INTERNAL-NOTE-IMAGE-URL" width="800">
+  <img src="https://i.imgur.com/KjwnMAo.png" width="800">
 </p>
+
 
 <p align="center">
-  <strong>Escalation Documentation:</strong> I documented the reported symptoms, business impact, troubleshooting actions, diagnostic findings, and unresolved issues in a private Spiceworks internal note to provide Tier 2 support with the necessary information for further investigation.
+  <strong>Escalation Decision and Documentation:</strong> I reviewed Reliability Monitor and Event Viewer, identified application and system errors, and documented my findings in Spiceworks. Since the root cause remained unresolved, I escalated the issue for further Tier 2 investigation.
 </p>
 
-<p align="center"><strong>Tier 1 Troubleshooting Summary | Tier 2 Handoff</strong></p>
+
+<p align="center">
+  <strong>Tier 1 Investigation Summary | Tier 2 Escalation Required</strong>
+</p>
 
 <h4>Ticket Escalation</h4>
 
