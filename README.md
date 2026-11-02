@@ -657,7 +657,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Escalation Decision and Documentation</h4>
 
 <p align="center">
-  <img src="https://i.imgur.com/KjwnMAo.png" width="800">
+  <img src="https://i.imgur.com/KjwnMAo.png" width="600">
 </p>
 
 
@@ -696,7 +696,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Final Ticket Status</h4>
 
 <p align="center">
-  <img src="https://i.imgur.com/DRzbe4O.png" width="800">
+  <img src="https://i.imgur.com/DRzbe4O.png" width="400">
 </p>
 
 <p align="center">
