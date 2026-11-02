@@ -583,7 +583,7 @@ I created this lab to simulate real-world IT Help Desk operations using Spicewor
 <h4>Problem Identification</h4>
 
 <p align="center">
-  <img src="https://i.imgur.com/V6Xkh8B.png" width="800">
+  <img src="https://i.imgur.com/UbGhFye.png" width="800">
 </p>
 
 <p align="center">
