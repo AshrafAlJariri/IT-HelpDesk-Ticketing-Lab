@@ -716,4 +716,4 @@ Through this project, I gained hands-on experience using Spiceworks Cloud Help D
 
 I developed skills in resolving account, printer, and network issues, communicating with users, and escalating complex problems to Tier 2 support.
 
-Overall, this project strengthened my troubleshooting, ticket management, and customer service skills for an entry-level IT Help Desk role.
+Overall, this project strengthened my troubleshooting, ticket management, and customer service skills.
